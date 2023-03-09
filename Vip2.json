@@ -2,17 +2,17 @@
    "files": [   
       
 {
-       "name": "TH-DTAC-Vip01",
+       "name": "TH_DTAC_Vip01",
          "url": "https://github.com/Pkvipvpn/vip/raw/main/DTAC_FOR_VIP-1.ovpn"
       }
 {
-       "name": "TH-DTAC-GAME-FOR-Vip1",
-         "url": "https://raw.githubusercontent.com/Pkvipvpn/vip/main/TH-DTAC-TRUE-VIP-1.ovpn"
-      },
-{
-       "name": "TH-DTAC-GAME-FOR-Vip2",
+       "name": "TH_DTAC_GAME_FOR_Vip1",
          "url": "https://raw.githubusercontent.com/Pkvipvpn/vip/main/TH-DTAC-TRUE-VIP-1.ovpn"
       }
+{
+       "name": "TH_DTAC_GAME_FOR_Vip2",
+         "url": "https://raw.githubusercontent.com/Pkvipvpn/vip/main/TH-DTAC-TRUE-VIP-1.ovpn"
+      },
 
  ],
 "message":"🔰 Update function to page load
@@ -24,6 +24,6 @@
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 5 ",
-   "version": 5
+"title":"Config version - 6 ",
+   "version": 6
 }
