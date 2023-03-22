@@ -2,8 +2,8 @@
    "files": [   
       
 {
-       "name": "TH-DTAC-VIP01",
-         "url": "https://github.com/Pkvipvpn/vip/raw/main/DTAC_FOR_VIP-1.ovpn"
+       "name": "TH-DTAC-GAME-2",
+         "url": "https://raw.githubusercontent.com/Pkvipvpn/vip/main/TH-GAME2.ovpn"
       },
 {
        "name": "TH-DTAC-GAME-VIP-01",
@@ -32,6 +32,6 @@
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 10 ",
-   "version": 10
+"title":"Config version - 11 ",
+   "version": 11
 }
